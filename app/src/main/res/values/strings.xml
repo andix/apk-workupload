@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Workupload Mobile</string>
+    <string name="site_url" translatable="false">https://workupload.com/</string>
+    <string name="error_no_internet">No internet connection</string>
+    <string name="error_generic">Something went wrong. Pull to refresh.</string>
+    <string name="action_retry">Retry</string>
+</resources>
